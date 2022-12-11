@@ -1,6 +1,8 @@
-# 👋 Hey, I’m Mickey Lozano
+![My Image](banner.png)
 
-I love technology, integrations, and systems management, but mostly, I love being a key role in helping companies transform from the inside out.
+# 👋 Hey!
+
+I'm Mickey and I love technology, integrations, and systems management, but mostly, I love being a key role in helping companies transform from the inside out.
 
 In the spring of 2020, I established a freelance business as a high-level DBM (*Digital Business Manager*) for over a dozen women-owned and minority-owned small businesses. I developed my own best practices in remote work and time management, consistently meeting client needs for up to 5 CEOs at a time.
 My services have included:
