@@ -25,9 +25,9 @@ As a solopreneur, I learned to utilize and transform data into business assets a
 
 <br/>
 
-# 🔀 Transition Into Tech
+# 🔀 Transition Into Data
 
-My focus for 2023 is transitioning into the Logistics industry in Logistics Technology. 
+My focus for 2023 is transitioning into Data Analytics || Data Engineering. 
 
 <br/>
 
@@ -40,13 +40,13 @@ For the past 18 months, I have built an extensive foundation of tech knowledge t
 | Coding/Query Languages | Platforms | Areas of Knowledge |
 | :---         |     :---:               |          ---: |
 | SQL          | Tableau                 | APIs    |
-| R            | Power BI                | EDI/X12      |
-| JSON         | Excel for Analytics     | SCRUM    |
-| Java         | Node.js                 | Data Analytics      |
-| Javascript   | Postman                 | Data Visualization    |
-| HTML         | Zapier                  | Systems Management      |
-| CSS          | Notion                  | Project Management    |
-| XML          | ClickUp Integrations    | OKRs / KPIs      |
+| R            | Power BI                | SCRUM      |
+| JSON         | Excel for Analytics     | Data Analytics    |
+| Java         | Node.js                 | Data Visualization      |
+| Javascript   | Postman                 | Systems Management    |
+| HTML         | Zapier                  | Project Management      |
+| CSS          | Notion                  | OKRs    |
+| XML          | ClickUp Integrations    | KPIs      |
 
 <br/>
 
@@ -67,10 +67,7 @@ am dedicated to consistently learning new technology, languages, and platforms, 
 - [x] [Introduction to Postman and API Testing](https://www.udemy.com/certificate/UC-f6bb7b1c-5bee-4170-b3b6-e07a2fcc56f0/) - *Udemy*
 
 *In Progress*:
-- [ ] [BI Dashboards with Power BI](https://www.codecademy.com/learn/bi-dashboards-with-power-bi) - *Codecademy*
-- [ ] [Create a Front-End App with React](https://www.codecademy.com/learn/paths/build-web-apps-with-react) - *Codecademy*
-- [ ] [Analyze Data with Microsoft Excel](https://www.codecademy.com/learn/analyze-data-with-microsoft-excel-2021) - *Codecademy*
-- [ ] [Design Databases with PostgreSQL](https://www.codecademy.com/learn/paths/design-databases-with-postgresql) - *Codecademy*
+- [ ] [Business Intelligence Analyst Learning Path](https://www.mavenanalytics.io/online-data-analysis-learning-paths) - *Maven Analytics*
 
 
 
