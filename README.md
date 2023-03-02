@@ -1,6 +1,3 @@
-![My Image](1.png)
-
-
 #
 
 I'm Michelle and I love technology, integrations, and systems management, but mostly, I love being a key role in helping companies transform from the inside out.
@@ -26,12 +23,6 @@ As a solopreneur, I learned to utilize and transform data into business assets a
 
 <br/>
 
-# 🔀 Transition Into Data
-
-My focus for 2023 is transitioning into Data Analytics || Data Engineering. 
-
-<br/>
-
 # 🌱 Skills & Projects
 
 For the past 18 months, I have built an extensive foundation of tech knowledge to grow my professional experience by using learning platforms such as *LinkedIn Learning*, *Codecademy*, *Coursera*, *Udemy*, *DataCamp*, and *Maven Analytics*.
@@ -53,8 +44,7 @@ For the past 18 months, I have built an extensive foundation of tech knowledge t
 
 # 👩‍🎓 Courses & Certifications
 
-I am an undergraduate from Ashford University, where I received dual Bachelor degrees in **Entrepreneurship** and **Organizational Management**. In addition to my formal education, I 
-am dedicated to consistently learning new technology, languages, and platforms, as well as thought leadership in the data engineering and logistics & transportation fields.
+I am an undergraduate from Ashford University, where I received dual Bachelor degrees in **Entrepreneurship** and **Organizational Management**. In addition to my formal education, I am dedicated to consistently learning new technology, languages, and platforms, as well as thought leadership in the data engineering and logistics & transportation fields.
 
 <br/>
 
